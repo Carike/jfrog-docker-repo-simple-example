@@ -1,0 +1,1 @@
+FROM isodemo-docker.jfrog.io/alpine:3.11.5
